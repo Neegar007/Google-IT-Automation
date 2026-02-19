@@ -1,0 +1,2 @@
+a text to pour into STDOUT stream and port into another file with bash> sign.
+a text to pour into STDOUT stream and port into another file with bash'>' sign.

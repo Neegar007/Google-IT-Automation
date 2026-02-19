@@ -1,0 +1,6 @@
+218.228.243.228 - - [27/Dec/2037:12:00:00 +0530] "GET /usr/login HTTP/1.0" 404 4938 "http://www.parker-miller.org/tag/list/list/privacy/" "Mozilla/5.0 (Android 10; Mobile; rv:84.0) Gecko/84.0 Firefox/84.0" 427
+141.106.139.232 - - [27/Dec/2037:12:00:00 +0530] "GET /usr HTTP/1.0" 502 5009 "-" "Mozilla/5.0 (Linux; Android 10; ONEPLUS A6000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.12.4.5121" 824
+40.48.244.219 - - [27/Dec/2037:12:00:00 +0530] "GET /usr/login HTTP/1.0" 500 5034 "-" "Mozilla/5.0 (Android 10; Mobile; rv:84.0) Gecko/84.0 Firefox/84.0" 1781
+56.125.112.165 - - [27/Dec/2037:12:00:00 +0530] "GET /usr/admin/developer HTTP/1.0" 303 5006 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329" 4650
+184.229.46.38 - - [27/Dec/2037:12:00:00 +0530] "GET /usr/admin/developer HTTP/1.0" 200 4934 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0" 1289
+173.79.77.52 - - [27/Dec/2037:12:00:00 +0530] "GET /usr HTTP/1.0" 200 5012 "-" "Mozilla/5.0 (Android 10; Mobile; rv:84.0) Gecko/84.0 Firefox/84.0" 3330

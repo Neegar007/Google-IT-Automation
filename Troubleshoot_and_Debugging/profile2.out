@@ -1,0 +1,25 @@
+# callgrind format
+version: 1
+creator: pprofile
+event: usphit :microseconds/hit
+events: hits microseconds usphit
+cmd: ./perfscript.py Alakure Joebiden holla
+fl=./perfscript.py
+fn=<module>:1
+0 1 33 33
+3 1 49 49
+5 1 14 14
+6 1 9 9
+9 1 8 8
+13 5 43 8
+14 4 26 6
+15 1 28 28
+cfl=./perfscript.py
+cfn=lookup:9
+calls=1 9
+15 1 20 20
+16 1 81 81
+fn=lookup:9
+9 1 7 7
+10 1 6 6
+11 1 7 7

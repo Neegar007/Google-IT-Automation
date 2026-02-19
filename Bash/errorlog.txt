@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/devops/automation/Bash/stderr.py", line 13, in <module>
+    raise ValueError("Now we generate an error to STDERR")
+ValueError: Now we generate an error to STDERR
+This will come from STDIN: Now we write it to STDOUT: A text to pour into STDOUT stream and port into another file with bash> sign.
+Now we generate an error to STDERR

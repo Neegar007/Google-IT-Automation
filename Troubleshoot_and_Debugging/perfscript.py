@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# This file is used for benchmarking
 import sys
 
 data = sys.argv[1]
@@ -14,4 +14,5 @@ for book in booklist:
     if book in data:
         result = lookup(book)
         print(result)
+        break
 

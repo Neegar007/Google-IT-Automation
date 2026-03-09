@@ -5,11 +5,11 @@
 # This will show interaraction with the user via the terminal.  
 import random
 def main():
-    number_to_guess = random.randint(1, 5)
-    attempts = 5
+    number_to_guess = random.randint(1, 20)
+    attempts = 10
 
     print("Welcome to the Random Numbers Game!")
-    print("I have selected a number between 1 and 100.")
+    print("I have selected a number between 1 and 20.")
     print(f"You have {attempts} attempts to guess it.")
 
     for attempt in range(1, attempts + 1):
@@ -21,8 +21,8 @@ def main():
             print("Please enter a valid integer.")
             continue
 
-        if guess < 1 or guess > 100:
-            print("Your guess is out of bounds. Please guess a number between 1 and 100.")
+        if guess < 1 or guess > 20:
+            print("Your guess is out of bounds. Please guess a number between 1 and 20.")
             continue
 
         if guess < number_to_guess:

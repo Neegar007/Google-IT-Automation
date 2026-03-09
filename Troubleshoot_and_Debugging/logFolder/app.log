@@ -1,0 +1,3 @@
+INFO:root:This message will be written to app.log
+INFO:root:This message will be written to app.log
+ERROR:root:This is an error with a custom format
